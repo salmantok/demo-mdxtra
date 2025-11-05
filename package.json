@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "test": "modewatch -c mdxtra -c \"prettier -w .\" -p . -e md,css,js,json -i .git,node_modules,public -d 300 -r -v"
+    }
+}
