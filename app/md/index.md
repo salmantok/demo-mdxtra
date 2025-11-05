@@ -1,3 +1,5 @@
+{html.navbar}
+
 ```js
 console.log('Hello World');
 ```
