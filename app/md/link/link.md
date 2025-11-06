@@ -1,0 +1,5 @@
+{html.navbar}
+
+halo
+
+[Home](/)
