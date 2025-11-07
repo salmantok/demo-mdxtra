@@ -2,4 +2,4 @@
 
 halo
 
-[Home](./)
+[Home](../index.md)
