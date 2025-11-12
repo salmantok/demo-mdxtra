@@ -1,4 +1,5 @@
 {
     "outDir": ".",
-    "singleQuote": true
+    "singleQuote": true,
+    "baseUrl": "/demo-mdxtra"
 }
