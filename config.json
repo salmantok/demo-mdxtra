@@ -1,5 +1,5 @@
 {
     "outDir": ".",
     "singleQuote": true,
-    "baseUrl": "/demo-mdxtra"
+    "baseUrl": "/demo-mdxtra/"
 }
