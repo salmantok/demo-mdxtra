@@ -1,5 +1,4 @@
 {
     "outDir": ".",
-    "singleQuote": true,
-    "enableRouter": false
+    "singleQuote": true
 }
