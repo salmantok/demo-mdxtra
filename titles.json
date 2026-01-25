@@ -1,1 +1,6 @@
-{}
+{
+    "intro": "Pengenalan",
+    "variables": "Variabel",
+    "functions": "Fungsi",
+    "dom": "Manipulasi DOM"
+}

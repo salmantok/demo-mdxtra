@@ -1,1 +1,1 @@
-{html.navbar}{html.test}
+{html.navbar}
