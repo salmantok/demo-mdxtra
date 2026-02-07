@@ -1,4 +1,3 @@
 **/*.html
 !app/html/**/*.html
 !app/code/**/*.html
-dist/search.json
