@@ -1,4 +1,6 @@
 {
-    "outDir": "dist",
-    "singleQuote": true
+    "outDir": ".",
+    "singleQuote": true,
+    "obfuscate": true,
+    "githubPages": "demo-mdxtra"
 }
