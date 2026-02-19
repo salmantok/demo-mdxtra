@@ -2,11 +2,12 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        {base_href}
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>{title}</title>
-        {base_href} {cdn_highlight} {cdn_css} {style}
+        {cdn_css} {cdn_highlight} {style}
     </head>
     <body>
-        {content} {script} {cdn_js}
+        {content} {cdn_js} {script}
     </body>
 </html>
