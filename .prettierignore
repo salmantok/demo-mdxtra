@@ -1,3 +1,4 @@
 **/*.html
+!public/index.html
 !app/html/**/*.html
 !app/code/**/*.html
